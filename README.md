@@ -86,10 +86,12 @@ The models were evaluated using:
 
 | Model | Dataset | Precision | Recall | mAP@50 |
 |---------|---------|---------|---------|---------|
-| YOLOv5 | PennFudanPed | XX | XX | XX |
-| YOLOv5 | WiderPerson | XX | XX | XX |
-| YOLOv8 | WiderPerson | XX | XX | XX |
-| YOLOv10-Lite | WiderPerson | XX | XX | XX |
+| YOLOv5 | PennFudanPed | 52.2 | 66.4 | 53.9 |
+| YOLOv8 | PennFudanPed | 98.2 | 98.0 | --   |
+|YOLOv10-lite| PennFudanPed| 86.0| 96.5| 86.5|
+| YOLOv5 | WiderPerson | 77.0 | 57.8 | 68.3 |
+| YOLOv8 | WiderPerson | 76.1 | 52.8 | 63.6 |
+| YOLOv10-Lite | WiderPerson | 70.8 | 51.7 | 61.3 |
 
 
 ## Sample Detection Results
