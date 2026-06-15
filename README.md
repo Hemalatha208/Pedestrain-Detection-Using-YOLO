@@ -1,4 +1,5 @@
 # Pedestrian Detection using YOLOv5, YOLOv8, and YOLOv10-Lite
+Internship Project | Computer Vision | Deep Learning
 
 ## Project Overview
 
@@ -39,6 +40,8 @@ The WiderPerson dataset is a large-scale pedestrian detection dataset containing
 | Model | Dataset |
 |---------|---------|
 | YOLOv5 | PennFudanPed |
+| YOLOv8 | PennFudanPed |
+| YOLOv10-Lite | PennFudanPed |
 | YOLOv5 | WiderPerson |
 | YOLOv8 | WiderPerson |
 | YOLOv10-Lite | WiderPerson |
